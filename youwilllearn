@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="youwilllearn.css">
+  <title>you will learn</title>
+</head>
+<body>
+  <h1>you'll learn</h1>
+  <div class="container">
+    <div class="box 1">
+  <img src="html.png" alt="HTML5 Icon">
+   <figcaption>HTML</figcaption>
+<p>  You will write semantic markup in HTML5 which is the latest standard of core technology of web.
+</p>
+  </div>
+  <div class="box 2">
+  <img src="css.png" alt="css3 Icon">
+   <figcaption>css3</figcaption>
+<p>You will style web pages using CSS3, leveraging on the new CSS3 modules, making modern websites.
+</p>
+  </div>
+  <div class="box box3">
+  <img src="responsive.png" alt="responsive">
+   <figcaption>responsive web design</figcaption>
+<p>  You will build websites that look awesome not only on desktops, but also on mobile phones and tablets.
+</p>
+  </div>
+  <div class="box 4">
+  <img src="ui.png" alt="ui Icon">
+   <figcaption>UI & UX design</figcaption>
+<p>  You will learn basics of UI & UX Design and use these concepts in build apps that are both functional and usable.
+</p>
+  </div>
+  <div class="box 5">
+  <img src="js.jpg" alt="js Icon">
+   <figcaption>JAVA script</figcaption>
+<p>  You will define the behavior of web pages using JavaScript. You will dive deeper into amazing parts of JavaScript.
+</p>
+  </div>
+  <div class="box 6">
+  <img src="jquery.png" alt="jquery Icon">
+   <figcaption>jQuery</figcaption>
+<p>  You will enhance the behavior of web pages leveraging on jQuery and jQuery plug-ins.
+</p>
+  </div>
+  <div class="box 7">
+  <img src="ts.png" alt="TS Icon">
+   <figcaption>TypeScript</figcaption>
+<p>  You will start writing object oriented programs using TypeScript. You will build games using TypeScript.
+</p>
+  </div>
+  <div class="box 8">
+  <img src="RxJS.png" alt="RxJS Icon">
+   <figcaption>RxJS</figcaption>
+<p>  You will build event-driven, resilient and responsive apps using Reactive Architectures.
+</p>
+  </div>
+  <div class="box 9">
+  <img src="unix.png" alt="unix Icon">
+   <figcaption>unix</figcaption>
+<p>  You will become a ninja hacker who prefer command line to Graphical User Interface.
+</p>
+  </div>
+  <div class="box 10">
+  <img src="git.png" alt="git Icon">
+   <figcaption>Git & Heroku</figcaption>
+<p>  You will start following git workflow using github. You will also deploy your applications with Heroku.
+</p>
+  </div>
+  <div class="box 11">
+  <img src="npm.png" alt="npm Icon">
+   <figcaption>npm</figcaption>
+<p> You will use npm, the default package manager for Node.js, to reuse some of the best utilities written already.
+</p>
+  </div>
+  <div class="box 12">
+  <img src="docker.png" alt="docker Icon">
+   <figcaption>Docker</figcaption>
+<p> You will use Docker to simplify configuration, increase your productivity, isolate your apps, and automate deployments.
+</p>
+  </div>
+  </div>
+</body>
+</html>
